@@ -35,16 +35,7 @@ th {
       color: #fff;
       font-weight: bold;
     }
-     
-     
-     
-     
-     
-     
-     
-     
-     
-	</style>
+</style>
 	</head>
   <body>
   	<center>
